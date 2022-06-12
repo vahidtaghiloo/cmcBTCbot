@@ -8,3 +8,6 @@ You must create your own telegram bot.
 to do:
 + procedure to create a telegram bot
 + maybe a database of some kind
+
+![telegram-bot](bot.jpg)
+
